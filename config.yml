@@ -1,0 +1,11 @@
+# Worlds witches melt
+worlds:
+ - world
+# Ramage Rate (Default: 30): is the ticks inbetween damage dealt 
+damage-rate: 30
+# Damage Cycle (Default: 10): the amount of the times the cycle repeats 
+damage-cycles: 10
+# Damage Amount (Default: 5): is the amount of damage dealt 
+damage-amount: 5
+# Effect Radius (Default: 60): is the radius to the player that effects are applied to witches 
+effect-radius: 60
